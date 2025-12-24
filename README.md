@@ -1,2 +1,3 @@
 # MedAI-Practice
-本仓库主要面向学生群体提供一些AI医疗的实践项目,AI框架主要为主要Pytorch,旨在通过代码入门医学AI(尤其是医学影像人工智能)领域,了解该领域的常用技术与软件包(pydicom.nibabel,monai,simpleITK等),希望能对你有所帮助
++ 本仓库主要面向学生群体提供一些AI医疗的实践项目,AI框架主要为主要Pytorch,旨在通过代码入门医学AI(尤其是医学影像人工智能)领域,了解该领域的常用技术与软件包(pydicom.nibabel,monai,simpleITK等),希望能对你有所帮助
++ 上次更新时间:2025.12.24,更新内容:脑肿瘤UNet分割,使用SwanLab监控训练
